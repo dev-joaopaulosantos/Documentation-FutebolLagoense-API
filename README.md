@@ -2,7 +2,7 @@
 
 ## http://futebol-lagoense.vercel.app
 
-#### Retorna um array todos os campeonatos cadastrados no banco de dados
+#### Retorna um array com todos os campeonatos cadastrados no banco de dados
 
 ```http
   GET /api/championships
